@@ -1,3 +1,9 @@
+# 초기 설정
+- 해당 repo git clone 후 각자 java project 생성
+- git remote add [사용할 repogitory] 후 각자 push(해당 개인 프로젝트 시작점)
+- git remote 참고사이트: https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-%EA%B9%83%ED%97%99-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC-git-remote
+- checkstyle 설정은 
+
 # 팀 공통 설정 파일
 
 Java + Gradle 프로젝트의 코드 스타일 통일 및 GitHub 협업 워크플로우를 위한 공통 설정 모음입니다.
@@ -95,7 +101,7 @@ Settings → Tools → Checkstyle
 → OK
 ```
 
-### 4단계: GitHub 라벨 등록
+### 4단계: GitHub 라벨 등록(선택)
 
 Issue 템플릿에 지정된 라벨을 GitHub에 미리 만들어두어야 합니다.
 
